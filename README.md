@@ -28,7 +28,7 @@
 </p>
 
 <p align="center">
-  <img alt="shopping cart" src="/">
+  <img alt="shopping cart" src="https://user-images.githubusercontent.com/17882257/111918430-c49dbf80-8a63-11eb-9b7d-2261a99209e2.gif">
 </p>
 
 <br/>
